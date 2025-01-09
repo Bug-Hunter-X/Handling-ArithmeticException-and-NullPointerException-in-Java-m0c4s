@@ -1,0 +1,1 @@
+This repository contains a simple Java program that showcases the handling of two common runtime exceptions: ArithmeticException and NullPointerException. The code includes examples of how these exceptions might occur and how they can be safely handled using try-catch blocks.  The solution demonstrates best practices for exception handling in Java applications.
